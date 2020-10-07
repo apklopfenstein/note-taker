@@ -1,1 +1,7 @@
-# note-taker
+# Note Taker
+
+## Purpose
+
+## Screenshot
+
+## Links
